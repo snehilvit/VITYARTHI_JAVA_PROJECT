@@ -1,6 +1,23 @@
 🏫 Campus Course & Records Manager (CCRM)
 A comprehensive, console-based Java application designed to manage students, courses, enrollments, and records for an educational institute. This project is built using core Java SE principles, demonstrating a wide range of language features from fundamental syntax to advanced concepts like OOP, NIO.2, and Design Patterns.
 
+ECLIPSE-IDE
+👨‍🎓 Student Management: Add, list, update, and deactivate student records.
+
+<img width="2560" height="1600" alt="Screenshot (241)" src="https://github.com/user-attachments/assets/15715665-b703-4f33-9cc4-c61c2b9b503e" />
+
+📚 Course Management: Create and manage courses, with support for searching and filtering.
+
+<img width="2560" height="1600" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/26114256-a623-4d66-8744-1fb0226bdecd" />
+
+📝 Enrollment & Grading: Enroll students in courses, record marks, calculate GPA, and generate transcripts.
+
+<img width="2560" height="1600" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/2e2430be-8456-43d0-bef8-1c2d590b7975" />
+
+📁 File Operations: Import and export data from/to CSV files using modern Java I/O.
+
+<img width="2560" height="1600" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/18b850ef-60f4-48dd-8611-aa04cafa6c07" />
+
 ✨ Key Features
 👨‍🎓 Student Management: Add, list, update, and deactivate student records.
 
